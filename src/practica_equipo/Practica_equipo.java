@@ -29,6 +29,9 @@ public class Practica_equipo {
     Scanner entrada = new Scanner(System.in);
     String  selecion = "";
     
+    System.out.println("Seleciona una operacion");
+    selecion = entrada.nextLine();
+    
     switch(selecion)
     {
             
