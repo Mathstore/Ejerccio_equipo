@@ -1,21 +1,52 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+  este es un jerccio de pratica el cual tiene como objetivo alimentar la participacion del equipo 
+  se realizarn archivos o clases el cuelase se elazaran a este documento 
+  con los repositorio de github
+  objetivo: practicar los cmonados de git y ralizar un archivo de equipos
+  clases y participantes
+  suma
+  resta
+  multiplicacio
+  divicion 
+  porcentaje
+  potencia
+  raiz
+  formula general
  */
 package practica_equipo;
-
+import java.util.Scanner;
 /**
- *
- * @author L
- */
+ * archivo master 
+ * 
+*/
 public class Practica_equipo {
-
-  /**
-   * @param args the command line arguments
-   */
+  
+  
+    
+  
   public static void main(String[] args) {
-    // TODO code application logic here
+    //Declaramos variables de entrada 
+    Scanner entrada = new Scanner(System.in);
+    String  selecion = "";
+    
+    switch(selecion)
+    {
+            
+      case("+"):
+              
+              
+      break;
+        
+      case("-"):
+              
+              
+      break;  
+        
+    
+    
+    
+    
+    }
   }
   
 }
